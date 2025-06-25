@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 20px;
+}
+
+#title {
+  margin: 10px;
+  font-size: 24px;
+}
+
+svg {
+  background-color: white;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+#tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.dot {
+  stroke: black;
+}
+
+#legend {
+  margin-top: 15px;
+}
+
+.legend-box {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
+  border: 1px solid #000;
+}
+
+.clean {
+  background-color: green;
+}
+
+.dope {
+  background-color: red;
+}
