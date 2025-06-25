@@ -13,7 +13,7 @@ This project visualizes the performance of professional cyclists over time and h
 ## 🔗 Live Project
 
 Deploy to GitHub Pages or any static hosting service:  
-`https://yourusername.github.io/scatterplot-project/`
+`https://Eric-Montero.github.io/scatterplot-project/`
 
 ## 🚀 Installation
 
