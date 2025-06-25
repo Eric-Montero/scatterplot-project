@@ -18,5 +18,5 @@ Deploy to GitHub Pages or any static hosting service:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/scatterplot-project.git
+git clone https://github.com/Eric-Montero/scatterplot-project.git
 cd scatterplot-project
